@@ -81,22 +81,22 @@ body{
     }
 
 
-        .statistics{
-            width: 100%;
-            height: 400px;
-            display: flex;
-            align-items: center;
-            justify-content: space-around;
-            background-color: #F4F8FE;
+    .statistics{
+        width: 100%;
+        height: 400px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        background-color: #F4F8FE;
 
-            h1{
-                width: 188px;
-                height: 80px;
-                font-weight: 500;
-                font-size: 80px;
-                line-height: 80px;
-                letter-spacing: 0.05em;
+        h1{
+            width: 188px;
+            height: 80px;
+            font-weight: 500;
+            font-size: 80px;
+            line-height: 80px;
+            letter-spacing: 0.05em;
             
-            }
         }
+    }
 }
