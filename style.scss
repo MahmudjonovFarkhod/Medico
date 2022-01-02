@@ -36,5 +36,18 @@ body{
             }
 
         }
+
+        main{
+            width: 100%;
+
+            .headline{
+                font-family: 'Reem Kufi', sans-serif;
+                width: 750px;
+                height: 220px;
+                font-size: 40px;
+                line-height: 110px;
+                color: #FFFF;
+            }
+        }
     }
 }
