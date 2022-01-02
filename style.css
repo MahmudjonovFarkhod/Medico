@@ -134,4 +134,8 @@ body .section-2 img {
   position: relative;
   padding-top: 200px;
 }
+
+body .section-2 .left img {
+  position: absolute;
+}
 /*# sourceMappingURL=style.css.map */
