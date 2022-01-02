@@ -165,5 +165,7 @@ body .section-2 button {
   height: 56px;
   background: #1D79E4;
   border-radius: 60px;
+  color: #FFFF;
+  border: #1D79E4 solid 1px;
 }
 /*# sourceMappingURL=style.css.map */
