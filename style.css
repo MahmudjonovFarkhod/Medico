@@ -104,4 +104,13 @@ body .section-2 .statistics {
   -ms-flex-pack: distribute;
       justify-content: space-around;
 }
+
+body .section-2 .statistics h1 {
+  width: 188px;
+  height: 80px;
+  font-weight: 500;
+  font-size: 80px;
+  line-height: 80px;
+  letter-spacing: 0.05em;
+}
 /*# sourceMappingURL=style.css.map */

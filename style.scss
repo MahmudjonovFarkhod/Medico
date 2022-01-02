@@ -90,6 +90,15 @@ body{
             display: flex;
             align-items: center;
             justify-content: space-around;
+
+            h1{
+                width: 188px;
+                height: 80px;
+                font-weight: 500;
+                font-size: 80px;
+                line-height: 80px;
+                letter-spacing: 0.05em;
+            }
         }
     }
 }
