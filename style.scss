@@ -89,6 +89,10 @@ body{
         justify-content: space-around;
         background-color: #F4F8FE;
 
+        div{
+            text-align: center;
+        }
+
         h1{
             width: 188px;
             height: 80px;
@@ -97,7 +101,6 @@ body{
             line-height: 80px;
             letter-spacing: 0.05em;
             margin-bottom: 40px;
-            padding-left: 20px;
         }
 
         p{
@@ -106,7 +109,6 @@ body{
             font-weight: 500;
             font-size: 24px;
             line-height: 30px;
-            text-align: center;
         }
     }
 }
