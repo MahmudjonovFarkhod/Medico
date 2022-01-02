@@ -109,7 +109,9 @@ body .statistics h1 {
   line-height: 80px;
   letter-spacing: 0.05em;
   margin-bottom: 40px;
-  text-align: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 body .statistics p {
