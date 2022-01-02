@@ -124,7 +124,7 @@ body .statistics p {
 
 body .section-2 {
   width: 100%;
-  height: 100vh;
+  height: calc(100vh - 400px);
   background-color: #1D79E4;
 }
 
