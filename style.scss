@@ -12,27 +12,9 @@ body{
         width: 100%;
         height: 100vh;
         padding: 30px;
-        background: url(/Rasmlar/dentists-treat-patients-teeth\ 1.png);
+        background: url(/Rasmlar/dentists-treat-patients-teeth1.png);
         background-size: cover;
         background-repeat: no-repeat;
         background-image: initial;
-
-        header{
-            width: 100%;
-            height: auto;
-            display: flex;
-            align-items: center;
-            justify-content: space-around;
-        }
-
-        nav{
-            display: flex;
-            gap: 40px;
-
-            a{
-                text-decoration: none;
-                color: #FFFF;
-            }
-        }
     }
 }

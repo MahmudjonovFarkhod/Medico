@@ -14,34 +14,9 @@ body .section-1 {
   width: 100%;
   height: 100vh;
   padding: 30px;
-  background: url(/Rasmlar/Background-1.svg);
+  background: url(/Rasmlar/dentists-treat-patients-teeth1.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-image: initial;
-}
-
-body .section-1 header {
-  width: 100%;
-  height: auto;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -ms-flex-pack: distribute;
-      justify-content: space-around;
-}
-
-body .section-1 nav {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  gap: 40px;
-}
-
-body .section-1 nav a {
-  text-decoration: none;
-  color: #FFFF;
 }
 /*# sourceMappingURL=style.css.map */
