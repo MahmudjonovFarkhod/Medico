@@ -259,6 +259,7 @@ body footer {
   display: flex;
   -ms-flex-pack: distribute;
       justify-content: space-around;
+  padding: 30px 100px;
 }
 
 body footer .first {
