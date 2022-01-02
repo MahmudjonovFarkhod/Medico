@@ -210,14 +210,10 @@ body .section-3 .right img {
   padding-right: 40px;
 }
 
-body .section-3 .icons img {
+body .section-3 .icons {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
-  gap: 50px;
+  gap: 30px;
 }
 /*# sourceMappingURL=style.css.map */
