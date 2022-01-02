@@ -194,6 +194,29 @@ body{
         }
     }
 
-  
+    .section-5{
+        width: 100%;
+        height: 100vh;
+
+        .left h1{
+            width: 575px;
+            height: 80px;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 70px;
+            line-height: 80px;
+            color: #222222;
+        }
+
+        .left p{
+            width: 536.59px;
+            height: 180px;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 18px;
+            line-height: 30px;
+            color: #555555;
+        }
+    }
 
 }
