@@ -211,6 +211,9 @@ body .section-3 .right img {
 }
 
 body .section-3 .icons img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
   gap: 50px;
 }
 /*# sourceMappingURL=style.css.map */
