@@ -17,6 +17,7 @@ body .section-1 {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  padding: 30px;
 }
 
 body .section-1 header {
@@ -30,5 +31,17 @@ body .section-1 header {
           align-items: center;
   -ms-flex-pack: distribute;
       justify-content: space-around;
+}
+
+body .section-1 header nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 40px;
+}
+
+body .section-1 header nav a {
+  text-decoration: none;
+  color: #FFFF;
 }
 /*# sourceMappingURL=style.css.map */
