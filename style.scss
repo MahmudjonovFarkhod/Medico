@@ -6,11 +6,12 @@
     font-family: 'Reem Kufi', sans-serif;
 }
 
-@media screen and (min-width: 650px) {
-    body{
-        width: auto;
-    }    
-}
+@media (max-width: 1366px) {
+    body {
+      width: 450px;
+      height: 350px;
+    }
+  }
 
 body{
     width: 100%;
