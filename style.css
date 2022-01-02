@@ -223,6 +223,7 @@ body .section-5 {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  margin-top: 20px;
 }
 
 body .section-5 .left h1 {
