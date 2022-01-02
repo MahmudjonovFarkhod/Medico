@@ -134,13 +134,4 @@ body .section-2 img {
   position: relative;
   padding-top: 200px;
 }
-
-body .section-2 .left img {
-  position: absolute;
-  left: 60px;
-}
-
-body .section-2 .right {
-  position: relative;
-}
 /*# sourceMappingURL=style.css.map */
