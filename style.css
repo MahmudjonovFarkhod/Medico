@@ -9,7 +9,8 @@
 
 @media screen and (max-width: 767px) {
   body {
-    width: 100%;
+    width: 375px;
+    height: 812px;
   }
 }
 
@@ -29,6 +30,7 @@ body .section-1 {
 }
 
 body .section-1 header {
+  position: relative;
   width: 100%;
   height: auto;
   display: -webkit-box;
