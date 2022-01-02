@@ -121,4 +121,13 @@ body .statistics p {
   text-align: center;
   color: #555555;
 }
+
+body .section-2 {
+  width: 100%;
+  height: 100vh;
+}
+
+body .section-2 img {
+  position: absolute;
+}
 /*# sourceMappingURL=style.css.map */
