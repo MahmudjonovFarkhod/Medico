@@ -129,6 +129,6 @@ body .section-2 {
 
 body .section-2 img {
   position: relative;
-  top: 50%;
+  padding-top: 200px;
 }
 /*# sourceMappingURL=style.css.map */
