@@ -270,4 +270,14 @@ body footer .first {
       -ms-flex-direction: column;
           flex-direction: column;
 }
+
+body footer .first p {
+  width: 328.56px;
+  height: 96px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+  color: #555555;
+}
 /*# sourceMappingURL=style.css.map */

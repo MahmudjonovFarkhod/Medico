@@ -233,6 +233,16 @@ body{
         .first{
             display: flex;
             flex-direction: column;
+
+            p{
+                width: 328.56px;
+                height: 96px;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 18px;
+                line-height: 24px;
+                color: #555555;
+            }
         }
     }
 
