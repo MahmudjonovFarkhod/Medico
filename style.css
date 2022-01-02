@@ -147,4 +147,14 @@ body .section-2 .right .headline h1 {
   line-height: 80px;
   color: #222222;
 }
+
+body .section-2 .right .info p {
+  width: 469.26px;
+  height: 90px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+  color: #555555;
+}
 /*# sourceMappingURL=style.css.map */
