@@ -209,4 +209,8 @@ body .section-3 .right img {
   height: 531px;
   padding-right: 40px;
 }
+
+body .section-3 .icons {
+  gap: 30px;
+}
 /*# sourceMappingURL=style.css.map */
