@@ -4,6 +4,7 @@
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   font-family: 'Red Hat Text', sans-serif;
+  font-family: 'Reem Kufi', sans-serif;
 }
 
 body {
@@ -51,7 +52,6 @@ body .section-1 main {
 }
 
 body .section-1 main .headline {
-  font-family: 'Reem Kufi', sans-serif;
   width: 750px;
   height: 220px;
   font-size: 40px;
