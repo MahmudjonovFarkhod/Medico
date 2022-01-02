@@ -15,6 +15,9 @@ body .section-1 {
   height: 100vh;
   padding: 30px;
   background: url(/Rasmlar/Background-1.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: initial;
 }
 
 body .section-1 header {

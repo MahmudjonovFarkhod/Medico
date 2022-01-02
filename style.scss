@@ -13,6 +13,9 @@ body{
         height: 100vh;
         padding: 30px;
         background: url(/Rasmlar/Background-1.svg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-image: initial;
 
         header{
             width: 100%;
