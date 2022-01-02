@@ -7,7 +7,7 @@
   font-family: 'Reem Kufi', sans-serif;
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (min-width: 650px) {
   body {
     width: 100%;
   }
