@@ -246,6 +246,21 @@ body{
                 color: #555555;
             }
         }
+
+        .second{
+            display: flex;
+            flex-direction: column;
+
+            b{
+                width: 132px;
+                height: 30px;
+                font-style: normal;
+                font-weight: 500;
+                font-size: 24px;
+                line-height: 30px;
+                color: #222222;
+            }
+        }
     }
 
 }
