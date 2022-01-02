@@ -196,4 +196,8 @@ body .section-3 .left .info p {
   line-height: 30px;
   color: #555555;
 }
+
+body .section-3 .right img {
+  position: relative;
+}
 /*# sourceMappingURL=style.css.map */
