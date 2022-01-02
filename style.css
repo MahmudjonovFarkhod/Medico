@@ -304,4 +304,14 @@ body footer .second b {
   line-height: 30px;
   color: #222222;
 }
+
+body footer .second p {
+  width: 328.56px;
+  height: 96px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+  color: #555555;
+}
 /*# sourceMappingURL=style.css.map */
