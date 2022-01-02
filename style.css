@@ -8,7 +8,7 @@
 }
 
 @media only screen and (max-width: 620px) {
-  .menu, .main, .right {
+  body {
     width: 100%;
   }
 }
