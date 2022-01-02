@@ -228,4 +228,14 @@ body .section-5 {
       -ms-flex-pack: justify;
           justify-content: space-between;
 }
+
+body .section-5 .left h1 {
+  width: 575px;
+  height: 80px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 70px;
+  line-height: 80px;
+  color: #222222;
+}
 /*# sourceMappingURL=style.css.map */
