@@ -90,6 +90,7 @@ body .section-1 main button {
 body .statistics {
   width: 100%;
   height: 400px;
+  background-color: #F4F8FE;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -98,31 +99,23 @@ body .statistics {
           align-items: center;
   -ms-flex-pack: distribute;
       justify-content: space-around;
-  background-color: #F4F8FE;
-}
-
-body .statistics div {
-  text-align: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
 }
 
 body .statistics h1 {
-  width: 188px;
-  height: 80px;
+  font-style: normal;
   font-weight: 500;
   font-size: 80px;
   line-height: 80px;
-  letter-spacing: 0.05em;
-  margin-bottom: 40px;
+  text-align: center;
+  color: #222222;
 }
 
 body .statistics p {
-  width: 270px;
-  height: 60px;
+  font-style: normal;
   font-weight: 500;
   font-size: 24px;
   line-height: 30px;
+  text-align: center;
+  color: #555555;
 }
 /*# sourceMappingURL=style.css.map */
