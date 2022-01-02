@@ -62,4 +62,13 @@ body .section-1 main .headline {
   margin-top: 116px;
   padding-left: 110px;
 }
+
+body .section-1 main .info {
+  width: 536px;
+  height: 90px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+}
 /*# sourceMappingURL=style.css.map */
