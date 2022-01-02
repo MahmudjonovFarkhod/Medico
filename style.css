@@ -344,4 +344,41 @@ body footer .third p {
   margin-bottom: 10px;
   color: #555555;
 }
+
+body footer .fourth {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+body footer .fourth b {
+  width: 132px;
+  height: 30px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 30px;
+  color: #222222;
+  margin-bottom: 10px;
+}
+
+body footer .fourth p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+  margin-bottom: 10px;
+  color: #555555;
+}
+
+body footer .fourth img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 20px;
+}
 /*# sourceMappingURL=style.css.map */
