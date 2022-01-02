@@ -177,13 +177,4 @@ body .section-3 {
   display: flex;
   padding: 100px;
 }
-
-body .section-3 .left .headline h1 {
-  width: 580px;
-  height: 100px;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 70px;
-  line-height: 80px;
-}
 /*# sourceMappingURL=style.css.map */
