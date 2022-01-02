@@ -6,11 +6,13 @@
     font-family: 'Reem Kufi', sans-serif;
 }
 
-@media(max-width: 620px) {
+@media (min-width: 575px) {
     body {
-      width: 100%;
+      width: 550px;
+      margin-left: auto;
+      margin-right: auto;
     }
-}
+  }
 
 body{
     width: 100%;
