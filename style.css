@@ -178,6 +178,7 @@ body .section-3 {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
+  padding: 100px;
 }
 
 body .section-3 .left .headline h1 {
