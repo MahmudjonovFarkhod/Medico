@@ -271,6 +271,31 @@ body{
                 color: #555555;
             }
         }
+
+        .third{
+            display: flex;
+            flex-direction: column;
+
+            b{
+                width: 132px;
+                height: 30px;
+                font-style: normal;
+                font-weight: 500;
+                font-size: 24px;
+                line-height: 30px;
+                color: #222222;
+                margin-bottom: 10px;
+            }
+
+            p{
+                font-style: normal;
+                font-weight: normal;
+                font-size: 18px;
+                line-height: 24px; 
+                margin-bottom: 10px;
+                color: #555555;
+            }
+        }
     }
 
 }
