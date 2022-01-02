@@ -116,7 +116,8 @@ body{
         height: 100vh;
 
         img{
-            position: absolute;
+            position: relative;
+            top: 50%;
         }
     }
 }
