@@ -9,7 +9,7 @@
 
 @media screen and (min-width: 650px) {
   body {
-    width: 100%;
+    width: auto;
   }
 }
 
