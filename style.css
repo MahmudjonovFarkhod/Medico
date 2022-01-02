@@ -125,6 +125,9 @@ body .statistics p {
 body .section-2 {
   width: 100%;
   height: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
 
 body .section-2 img {
