@@ -103,6 +103,9 @@ body .statistics {
 
 body .statistics div {
   text-align: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 body .statistics h1 {
