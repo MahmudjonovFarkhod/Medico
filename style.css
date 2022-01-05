@@ -382,11 +382,4 @@ body footer .fourth .icons {
   display: flex;
   gap: 20px;
 }
-
-@media screen and (width: 650px) {
-  body {
-    width: 375px;
-    height: 812px;
-  }
-}
 /*# sourceMappingURL=style.css.map */
